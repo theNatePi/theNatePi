@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nathan Pietrantonio</h1>
 <h3 align="center">2nd Year Computer Science Undergraduate - UCI</h3>
 
-- Discord bot written in Python [McStatusDiscordBot](https://github.com/theNatePi/McStatusDiscordBot)
+- 🤖 Discord bot written in Python [McStatusDiscordBot](https://github.com/theNatePi/McStatusDiscordBot)
 
-- Experience In **Linux, SSH, Git, APIs, Web Hosting, and More!**
+- 🍅 Pomodoro Timer Chrome Extension [PomodoroTimer](https://github.com/theNatePi/PomodoroTimer)
 
-- Pomodoro Timer Chrome Extension [PomodoroTimer](https://github.com/theNatePi/PomodoroTimer)
+- 😌 Mindful Meditation Chrome Extension [MindfulMeditationTimer](https://github.com/theNatePi/MindfulMeditationTimer)
 
-- Mindful Meditation Chrome Extension [MindfulMeditationTimer](https://github.com/theNatePi/MindfulMeditationTimer)
+- 👷🏻‍♂️ Experience In **Linux, SSH, Git, APIs, Web Hosting, and More!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
