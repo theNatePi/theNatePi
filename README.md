@@ -9,6 +9,14 @@
 
 - 👷🏻‍♂️ Experience In **Linux, SSH, Git, APIs, Web Hosting, and More!**
 
+My profile is a work in progress, and I am always working to learn new technologies!
+
+Some of my best projects were done before I learned Git and GitHub, and aren't yet featured here. They include:
+- 🛰️ UCR LIGO Research Project in Python (2020 - 2021)
+- 🐍 Various Discord Bots in Python with the Discord API
+- 👨🏻‍💻 Web scraping and API development using Python
+- 🖥️ Small websites for family and friends
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nathanpietrantonio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan pietrantonio" height="30" width="40" /></a>
