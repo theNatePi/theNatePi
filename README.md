@@ -12,7 +12,7 @@
 My profile is a work in progress, and I am always working to learn new technologies!
 
 Some of my best projects were done before I learned Git and GitHub, and aren't yet featured here. They include:
-- 🛰️ UCR [LIGO](https://www.ligo.org/) Research Project in Python (2020 - 2021)
+- 🛰️ UCR [LIGO](https://www.ligo.org/) Research Project in Python (2019 - 2020)
 - 🐍 Various Discord Bots in Python with the Discord API
 - 👨🏻‍💻 Web scraping and API development using Python
 - 🖥️ Small websites for family and friends
