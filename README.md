@@ -2,13 +2,9 @@
 <h3 align="center">2nd Year Computer Science Undergraduate - UCI</h3>
 
 - 🤖 Discord bot written in Python [McStatusDiscordBot](https://github.com/theNatePi/McStatusDiscordBot)
-
 - 🍅 Pomodoro Timer Chrome Extension [PomodoroTimer](https://github.com/theNatePi/PomodoroTimer)
-
 - 😌 Mindful Meditation Chrome Extension [MindfulMeditationTimer](https://github.com/theNatePi/MindfulMeditationTimer)
-
 - 👾 Hackathon social media site [PetrPages](https://github.com/theNatePi/PetrPages)
-
 - 👷🏻‍♂️ Experience In **Linux, SSH, Git, APIs, Web Hosting, and More!**
 
 My other experience includes:
