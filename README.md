@@ -14,7 +14,7 @@ My other experience includes:
 - 🖥️ Small websites for family and friends
 
 
-### 🙋🏻‍♂️ Connect with me:
+### 👨🏻‍💻 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/nathanpietrantonio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan pietrantonio" height="30" width="40" /></a>
 </p>
