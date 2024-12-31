@@ -1,27 +1,37 @@
-<h1 align="center">Hi 👋, I'm Nathan Pietrantonio</h1>
-<h3 align="center">2nd Year Computer Science Undergraduate - UCI</h3>
+# Hey 👋, I'm Nathan <a href="https://www.linkedin.com/in/nathanpietrantonio" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan pietrantonio" height="30" width="40" /></a> 
 
-- 🤖 Discord bot written in Python [McStatusDiscordBot](https://github.com/theNatePi/McStatusDiscordBot)
-- 🍅 Pomodoro Timer Chrome Extension [PomodoroTimer](https://github.com/theNatePi/PomodoroTimer)
-- 😌 Mindful Meditation Chrome Extension [MindfulMeditationTimer](https://github.com/theNatePi/MindfulMeditationTimer)
-- 👾 Hackathon social media site [PetrPages](https://github.com/theNatePi/PetrPages)
-- 👷🏻‍♂️ Experience In **Linux, SSH, Git, APIs, Web Hosting, and More!**
-
-My other experience includes:
-- 🛰️ UCR [LIGO](https://www.ligo.org/) Research Project in Python (2019 - 2020)
-- 🐍 Various Discord Bots in Python with the Discord API
-- 👨🏻‍💻 Web scraping and API development using Python
-- 🖥️ Small websites for family and friends
+### Currently:
+- Studying Computer Science at UC, Irvine
+- Technical Lead building web-apps for Non-Profits at [CTC](https://ctc-uci.com/)
+- Leading computer vision research and software architecture at [ZotBins](https://zotbins.org/)
+### Previously
+- Undergraduate researcher at [IoT-SITY](https://sites.uci.edu/iotsity/about-iotsity/) REU program at UC, Irvine [2024]
 
 
-### 👨🏻‍💻 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/nathanpietrantonio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan pietrantonio" height="30" width="40" /></a>
-</p>
+### Projects
+- 🐍 Python
+  - [CTCWrapped](https://github.com/theNatePi/CTCWrapped), "Spotify Wrapped" but for GitHub!
+  - [McStatus](https://github.com/theNatePi/McStatusDiscordBot), a Discord bot for Minecraft Servers
+  - [Yappr](https://github.com/theNatePi/Yappr), real-time voice chat with ChatGPT
+- 🧑‍💻 React + JS/CSS/HTML
+  - [Scavenger hunt](https://github.com/theNatePi/scavenger-hunt) web-app hosted on Firebase [Current]
+  - [JotGenius](https://github.com/theNatePi/JotGenius), a note-taking app that uses Gemini to help you improve [Hackathon]
+  - [Event management web-app](https://github.com/ctc-uci/lpa) for local Non-Profit [Current] [Team Lead]
+  - [PetrPages](https://github.com/theNatePi/PetrPages), Social web-app [Hackathon]
+  - [Volunteer dashboard](https://github.com/ctc-uci/stand-up-to-trash-frontend) web-app for local Non-Profit [Contributor]
+- 📱 React Native
+  - [Health Habitat](https://github.com/rebeccaahn/health-habitat), a health-tracking app that helps you improve using machine learning
+- 🧪 C#
+  - [CASTLE](https://github.com/theNatePi/IoTSITYNavAgent), an agent-focused evacuation simulation library for Unity
+- 🔧 C/C++
+  - [WeatherC](https://github.com/theNatePi/WeatherC), a quick project to keep my C skills fresh [Current]
 
-### 💻 Tech stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thenatepi&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
+### Technologies
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
