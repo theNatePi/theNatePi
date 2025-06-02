@@ -10,7 +10,6 @@
 
 ### Projects
 - 🐍 Python
-  - [CTCWrapped](https://github.com/theNatePi/CTCWrapped), "Spotify Wrapped" but for GitHub!
   - [McStatus](https://github.com/theNatePi/McStatusDiscordBot), a Discord bot for Minecraft Servers
   - [Yappr](https://github.com/theNatePi/Yappr), real-time voice chat with ChatGPT
 - Go 🐹
