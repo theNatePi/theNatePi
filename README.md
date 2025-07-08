@@ -1,4 +1,4 @@
-# Hey 👋, I'm Nathan <a href="https://www.linkedin.com/in/nathanpietrantonio" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan pietrantonio" height="30" width="40" /></a> 
+# Hey 👋, I'm Nathan <a href="https://www.linkedin.com/in/nathanlp" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan pietrantonio" height="30" width="40" /></a> 
 
 ### Currently:
 - Studying Computer Science at UC, Irvine
