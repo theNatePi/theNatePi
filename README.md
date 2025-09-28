@@ -1,7 +1,7 @@
 # Hey 👋, I'm Nathan <a href="https://www.linkedin.com/in/nathanlp" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan pietrantonio" height="30" width="40" /></a> 
 
 ### Currently:
-- Studying Computer Science and Intelligent Systems at UC, Irvine
+- Studying Computer Science and [Intelligent Systems](https://arc.net/l/quote/nfyrouht) at UC, Irvine
 - President of [CTC](https://ctc-uci.com/) building tech with purpose
 - Technology Intern at [Archwest Capital](https://www.archwestcapital.com/about/) (Irvine, CA)
 ### Previously
