@@ -1,10 +1,12 @@
 # Hey 👋, I'm Nathan <a href="https://www.linkedin.com/in/nathanlp" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan pietrantonio" height="30" width="40" /></a> 
 
 ### Currently:
-- Studying Computer Science at UC, Irvine
-- Technical Lead building web-apps for Non-Profits at [CTC](https://ctc-uci.com/)
-- Leading computer vision research and software architecture at [ZotBins](https://zotbins.org/)
+- Studying Computer Science and Intelligent Systems at UC, Irvine
+- President of [CTC](https://ctc-uci.com/) building tech with purpose
+- Technology Intern at [Archwest Capital](https://www.archwestcapital.com/about/) (Irvine, CA)
 ### Previously
+- Technical Lead building web-apps for Non-Profits at [CTC](https://ctc-uci.com/) [2024 - 2025]
+- Leading computer vision research and software architecture at [ZotBins](https://zotbins.org/) [2024 - 2025]
 - Undergraduate researcher at [IoT-SITY](https://sites.uci.edu/iotsity/about-iotsity/) REU program at UC, Irvine [2024]
 
 
