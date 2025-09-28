@@ -13,7 +13,7 @@
 ### Projects
 - 🐍 Python
   - [McStatus](https://github.com/theNatePi/McStatusDiscordBot), a Discord bot for Minecraft Servers
-  - [Yappr](https://github.com/theNatePi/Yappr), real-time voice chat with ChatGPT
+  - [Yappr](https://github.com/theNatePi/Yappr), real-time voice chat with ChatGPT (Before this was a native feature 😉)
 - Go 🐹
   - [CTCWrapped](https://github.com/theNatePi/CTCWrapped), "Spotify Wrapped" but for GitHub! [Now refactored in Go]
 - 🧑‍💻 React + JS/CSS/HTML
