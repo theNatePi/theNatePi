@@ -29,6 +29,8 @@
 - 🔧 C/C++
   - [WeatherC](https://github.com/theNatePi/WeatherC), a quick project to keep my C skills fresh [Current]
 
+### Public Contributions
+- [Volunteer dashboard](https://github.com/ctc-uci/stand-up-to-trash-frontend) web-app for local Non-Profit [React]
 
 ### Technologies
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
