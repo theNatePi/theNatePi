@@ -18,6 +18,8 @@
 - 🐍 Python
   - [McStatus](https://github.com/theNatePi/McStatusDiscordBot), a Discord bot for Minecraft Servers
   - [Yappr](https://github.com/theNatePi/Yappr), real-time voice chat with ChatGPT (Before this was a native feature 😉)
+- 🖥️ Electron (React + JS/CSS/HTML)
+  - [myPod](https://github.com/theNatePi/myPod), a simple, standalone podcast client styled like an iPod Nano
 - Go 🐹
   - [CTCWrapped](https://github.com/theNatePi/CTCWrapped), "Spotify Wrapped" but for GitHub! [Go]
 - 🧑‍💻 React + JS/CSS/HTML
