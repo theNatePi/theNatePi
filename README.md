@@ -24,7 +24,7 @@
   - ⭐️ [CTCWrapped](https://github.com/theNatePi/CTCWrapped), "Spotify Wrapped" but for GitHub!
 - 🧑‍💻 React + JS/CSS/HTML
   - [Scavenger hunt](https://github.com/theNatePi/scavenger-hunt) web-app hosted on Firebase
-  - [JotGenius](https://github.com/theNatePi/JotGenius), a note-taking app that uses Gemini to help you improve
+  - ⭐️ [JotGenius](https://github.com/theNatePi/JotGenius), a note-taking app that uses Gemini to help you improve
   - ⭐️ [Event management web-app](https://github.com/ctc-uci/lpa) for local Non-Profit [Team Lead]
   - [PetrPages](https://github.com/theNatePi/PetrPages), Social web-app
   - ⭐️ [Volunteer dashboard](https://github.com/ctc-uci/stand-up-to-trash-frontend) web-app for local Non-Profit [Contributor]
