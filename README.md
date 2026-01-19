@@ -12,7 +12,7 @@
 ### Highlighted Projects
 [Event management web-app](https://github.com/ctc-uci/lpa) for local Non-Profit [React]<br>
 [CTCWrapped](https://github.com/theNatePi/CTCWrapped), "Spotify Wrapped" but for GitHub! [Go]<br>
-[myPod](https://github.com/theNatePi/myPod), A podcast client styled like an iPod Nano!<br>
+[myPod](https://github.com/theNatePi/myPod), A podcast client styled like an iPod Nano! [React], [Electron]<br>
 [Health Habitat](https://github.com/rebeccaahn/health-habitat), a health-tracking app that helps you improve using machine learning [React Native]<br>
 
 ### Projects
